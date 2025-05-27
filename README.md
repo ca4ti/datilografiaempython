@@ -74,7 +74,6 @@ O Treinador de Digitação é uma aplicação desktop desenvolvida em Python com
     ```bash
     python TouchTypingTrainer.py
     ```
-    (Substitua `TouchTypingTrainer.py` pelo nome real do script Python, se for diferente.)
 
 ## Como Usar
 
