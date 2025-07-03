@@ -105,16 +105,6 @@ O Treinador de Digitação é uma aplicação desktop desenvolvida em Python com
     * Após cada exercício, um relatório mostrará suas métricas de desempenho.
 5.  **Sair**: Clique no botão "Sair" para fechar a aplicação.
 
-## Capturas de Tela (Screenshots)
-
-*(Você pode adicionar capturas de tela da aplicação aqui para tornar o README mais visual e informativo.)*
-
-* *Tela de Boas-vindas e Seleção de Idioma*
-* *Menu Principal com Opções*
-* *Popup da Guia de Posicionamento das Mãos*
-* *Janela de Treinamento em Ação*
-* *Janela de Relatório Pós-Treinamento*
-
 ## Melhorias Futuras (Ideias Possíveis)
 
 * Estatísticas mais detalhadas e acompanhamento do progresso ao longo do tempo.
@@ -135,6 +125,24 @@ Contribuições são bem-vindas! Se você gostaria de contribuir, por favor, sig
 
 ## Licença
 
-*(É recomendado adicionar um arquivo de licença ao seu projeto, ex: MIT, GPL. Você pode então declarar a licença aqui.)*
+MIT License
 
-Este projeto está licenciado sob a [NOME DA LICENÇA] - veja o arquivo `LICENSE.md` para detalhes.
+Copyright (c) 2025 Carlos Alberto
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
